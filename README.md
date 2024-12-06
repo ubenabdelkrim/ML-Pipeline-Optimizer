@@ -50,3 +50,9 @@ For any questions or further details, feel free to contact me at **usama.benabde
 ---
 
 **Keywords**: Serverless Computing, Distributed Pipelines, Machine Learning, XGBoost, Cloud Computing, Resource Optimization, Cost Efficiency, Geospatial Analysis
+
+---
+
+This work is licensed under a Creative Commons Attribution International 4.0 License.  
+WoSC10 ’24, December 2–6, 2024, Hong Kong, Hong Kong  
+© 2024 Copyright held by the owner/author(s)
